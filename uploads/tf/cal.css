@@ -1,0 +1,8 @@
+.tx-cal-controller h1 {font-size:1.2em;}
+.tx-cal-controller h2 {margin-top:0.8em;}
+.tx-cal-controller dd {margin:0 0 0em;font-size:0.9em;}
+.tx-cal-controller dl {margin:-0.2em 0 0 0.7em;}
+
+.subinfo {margin:0.2em 0 0.2em;display:block;font-size:0.9em;text-align:right; color:#316481; line-height:10px;font-weight:bold;}
+.subinfo span{ margin-left:0.5em; padding-left:0.5em; border-left:1px solid #aaa; float:left;}
+.subinfo span.first{ margin-left:0; padding-left:0; border-left:0;}
