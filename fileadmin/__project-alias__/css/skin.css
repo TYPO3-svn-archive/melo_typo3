@@ -41,7 +41,7 @@ body {}
 		tr { }
 		tr.even { background:#CFE8EF; }
 			td,th { border-bottom:1px solid #ddd; border-right:1px solid #ddd; }
-			th { background:#0095A6; color:white; }
+			th,thead td { background:#0095A6; color:white; }
 
 
 #content .ui-widget { border:0px solid #ccc; margin-bottom:1em; }

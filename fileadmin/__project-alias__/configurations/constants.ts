@@ -7,7 +7,7 @@
 #	Project specific constants
 #----------------------------------------------------------
 config.title = TYPO3 Website
-config.baseUrl = http://localhost/typo3-tpl/
+config.baseUrl = http://localhost/melo_typo3/
 config.logoFilename = logo.png
 config.projectFolder = __project-alias__
 
