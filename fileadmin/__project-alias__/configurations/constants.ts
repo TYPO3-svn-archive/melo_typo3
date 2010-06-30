@@ -24,6 +24,8 @@ config.devmode = 1
 #------------------------------------------------------------
 # 	Include Sub Configurations
 #------------------------------------------------------------
-<INCLUDE_TYPOSCRIPT: source="FILE:typo3conf/ext/melo_base/res/configurations/constants/constants/cal.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE:typo3conf/ext/melo_base/res/configurations/constants/constants/indexed_search.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE:typo3conf/ext/melo_base/res/configurations/constants/constants/tt_news.ts">
+
+
+<INCLUDE_TYPOSCRIPT: source="FILE:typo3conf/ext/melo_base/res/configurations/constants/cal.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:typo3conf/ext/melo_base/res/configurations/constants/indexed_search.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:typo3conf/ext/melo_base/res/configurations/constants/tt_news.ts">
